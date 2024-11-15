@@ -157,3 +157,32 @@ fn main() {
         println!("Is the point on the curve? {}", is_on_curve(&np, a, b, m));
     }
 }
+
+## Requirements
+- To get started, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. You can then clone the repository and build the project.
+
+## Installation
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/cypriansakwa/Elliptic_Curves_Scalar_Multiplication_over_Finite_Fields_in_Rust.git
+    cd Elliptic_Curves_Scalar_Multiplication_over_Finite_Fields_in_Rust
+    ```
+
+2. **Build the project**:
+    ```bash
+    cargo build
+    ```
+
+3. **Run the program**:
+    ```bash
+    cargo run
+    ```
+
+## Usage
+
+To execute the program, simply run:
+
+```bash
+cargo run
+```
