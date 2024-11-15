@@ -157,7 +157,7 @@ fn main() {
         println!("Is the point on the curve? {}", is_on_curve(&np, a, b, m));
     }
 }
-
+```
 ## Requirements
 - To get started, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. You can then clone the repository and build the project.
 
